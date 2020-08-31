@@ -14,7 +14,7 @@ Esta es una lista de las herramientas necesarias para tomar el taller:
 
 Otros requerimientos:
 
-*Cuenta en GitHub [enlace](https://github.com/)
+* Cuenta en GitHub [enlace](https://github.com/)
 
 ## Temas del taller
 
