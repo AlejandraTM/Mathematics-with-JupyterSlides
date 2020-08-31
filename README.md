@@ -4,7 +4,7 @@
 Docente: Alejandra Torres Manotas [alejandra.torresm@konradlorenz.edu.co](mailto:alejandra.torresm@konradlorenz.edu.co)
 
 
-## Instalación de erramientas 
+## 🤖 Instalación de erramientas 
 
 Esta es una lista de las herramientas necesarias para tomar el taller:
 
@@ -16,13 +16,13 @@ Otros requerimientos:
 
 * Cuenta en GitHub [enlace](https://github.com/)
 
-## Temas del taller
+## 📚 Temas del taller
 
 1. Uso de Jupyter Notebook y creación de una presentación.
 2. Ejemplo de una clase usando Jupyter Notebook Slides.
 3. Generación de archivos .html.
 4. Creación de la pagina web usando GitHub Pages.
 
-## Material de apoyo
+## 🔗 Material de apoyo
 
 Esta es una entrada que explica desde la instalación de Anaconda hasta la creación de la página web con GitHub [Enlace](https://alejandratm.github.io/Jupyter-Slides-Hola-Mundo/)
