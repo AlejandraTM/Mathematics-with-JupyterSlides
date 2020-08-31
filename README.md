@@ -4,7 +4,7 @@
 Docente: Alejandra Torres Manotas [alejandra.torresm@konradlorenz.edu.co](mailto:alejandra.torresm@konradlorenz.edu.co)
 
 
-## 🤖 Instalación de erramientas 
+## 🤖 Instalación de herramientas 
 
 Esta es una lista de las herramientas necesarias para tomar el taller:
 
