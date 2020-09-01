@@ -30,5 +30,5 @@ Esta es una entrada que explica desde la instalación de Anaconda hasta la creac
 ## 📝 Algunos ejemplos de lo que se hará en el curso
 
 * Archivo .html para ejemplo usando Python
-* Archivo .slides.html para ejemplo usando Python
+* Archivo .slides.html para ejemplo usando Python [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/Divisibilidad/Divisibilidad.slides.html#/)
 * Archivo .html para ejemplo usando SageMath
