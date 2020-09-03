@@ -32,7 +32,7 @@ Otros requerimientos:
 
 Esta es una entrada que explica desde la instalación de Anaconda hasta la creación de la página web con GitHub [Enlace](https://medium.com/@alejatorresm/presentaciones-usando-jupyter-notebook-6cb20434fbe9)
 
-## 📝 Algunos ejemplos de lo que se hará en el curso
+## 📝 Algunos ejemplos de lo que se hará en el taller
 
 * Archivo .html (ejemplo usando Python) [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/ProductoCartesiano/Producto%20cartesiano.html)
 * Archivo .slides.html (ejemplo usando Python) [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/Divisibilidad/Divisibilidad.slides.html#/)
