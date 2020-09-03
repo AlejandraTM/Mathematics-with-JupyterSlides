@@ -9,7 +9,7 @@ Docente: Alejandra Torres Manotas [alejandra.torresm@konradlorenz.edu.co](mailto
 
 ## 🤖 Instalación de herramientas 
 
-Esta es una lista de las herramientas necesarias para tomar el taller:
+Esta es una lista de las herramientas necesarias:
 
 * Anaconda [enlace](https://www.anaconda.com/products/individual)
 * Plugin RISE [enlace](https://rise.readthedocs.io/en/stable/installation.html) 
@@ -18,6 +18,8 @@ Esta es una lista de las herramientas necesarias para tomar el taller:
 Otros requerimientos:
 
 * Cuenta en GitHub [enlace](https://github.com/)
+
+**Nota:** Es importante que cada una de estas erramientas esten instaladas para poder tomar el taller.
 
 ## 📚 Temas del taller
 
@@ -28,10 +30,11 @@ Otros requerimientos:
 
 ## 🔗 Material de apoyo
 
-Esta es una entrada que explica desde la instalación de Anaconda hasta la creación de la página web con GitHub [Enlace](https://alejandratm.github.io/Jupyter-Slides-Hola-Mundo/)
+Esta es una entrada que explica desde la instalación de Anaconda hasta la creación de la página web con GitHub [Enlace](https://medium.com/@alejatorresm/presentaciones-usando-jupyter-notebook-6cb20434fbe9)
 
 ## 📝 Algunos ejemplos de lo que se hará en el curso
 
-* Archivo .html para ejemplo usando Python [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/ProductoCartesiano/Producto%20cartesiano.html)
-* Archivo .slides.html para ejemplo usando Python [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/Divisibilidad/Divisibilidad.slides.html#/)
-* Archivo .html para ejemplo usando SageMath
+* Archivo .html (ejemplo usando Python) [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/ProductoCartesiano/Producto%20cartesiano.html)
+* Archivo .slides.html (ejemplo usando Python) [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/Divisibilidad/Divisibilidad.slides.html#/)
+* Archivo .html (ejemplo usando SageMath)
+* Página web [Enlace](https://alejandratm.github.io/Jupyter-Slides-Hola-Mundo/)
