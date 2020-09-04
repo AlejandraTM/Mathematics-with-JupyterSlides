@@ -11,15 +11,15 @@ Docente: Alejandra Torres Manotas [alejandra.torresm@konradlorenz.edu.co](mailto
 
 Esta es una lista de las herramientas necesarias:
 
-* Anaconda [enlace](https://www.anaconda.com/products/individual)
-* Plugin RISE [enlace](https://rise.readthedocs.io/en/stable/installation.html) 
-* Git [enlace](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
+* Enlace de [Anaconda](https://www.anaconda.com/products/individual)
+* Enlace del [Plugin RISE](https://rise.readthedocs.io/en/stable/installation.html) 
+* Enlace de [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
 Otros requerimientos:
 
-* Cuenta en GitHub [enlace](https://github.com/)
+* Enlace de [GitHub](https://github.com/)
 
-**Nota:** Es importante que cada una de estas erramientas esten instaladas para poder tomar el taller.
+**Nota:** Es importante que cada una de estas herramientas esten instaladas para poder tomar el taller.
 
 ## 📚 Temas del taller
 
@@ -37,4 +37,4 @@ Esta es una entrada que explica desde la instalación de Anaconda hasta la creac
 * Archivo .html (ejemplo usando Python) [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/ProductoCartesiano/Producto%20cartesiano.html)
 * Archivo .slides.html (ejemplo usando Python) [Enlace](https://alejandratm.github.io/Mathematics-with-JupyterSlides/Divisibilidad/Divisibilidad.slides.html#/)
 * Archivo .html (ejemplo usando SageMath)
-* Página web [Enlace](https://alejandratm.github.io/Jupyter-Slides-Hola-Mundo/)
+* Página web usando GitHub Pages [Enlace](https://alejandratm.github.io/Jupyter-Slides-Hola-Mundo/)
