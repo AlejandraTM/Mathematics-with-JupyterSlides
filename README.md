@@ -30,7 +30,7 @@ Otros requerimientos:
 
 ## 🔗 Material de apoyo
 
-Esta es una entrada que explica desde la instalación de Anaconda hasta la creación de la página web con GitHub [Enlace](https://medium.com/@alejatorresm/presentaciones-usando-jupyter-notebook-6cb20434fbe9)
+Esta es una entrada que explica desde la instalación de Anaconda hasta la creación de la página web con GitHub: [Presentaciones usando Jupyter Notebook.](https://medium.com/@alejatorresm/presentaciones-usando-jupyter-notebook-6cb20434fbe9)
 
 ## 📝 Algunos ejemplos de lo que se hará en el taller
 
