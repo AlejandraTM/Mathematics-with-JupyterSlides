@@ -17,7 +17,7 @@ Esta es una lista de las herramientas necesarias:
 
 Otros requerimientos:
 
-* Enlace de [GitHub](https://github.com/)
+* Crear una cuenta en [GitHub](https://github.com/)
 
 **Nota:** Es importante que cada una de estas herramientas esten instaladas para poder tomar el taller.
 
