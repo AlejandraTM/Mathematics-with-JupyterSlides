@@ -1,7 +1,7 @@
 
 # Mathematics-with-JupyterSlides 
 
-### Fundación Unviersitaria Konrad Lorenz
+### Fundación Universitaria Konrad Lorenz
 ### Semestre 2020 - II
 
 Docente: Alejandra Torres Manotas [alejandra.torresm@konradlorenz.edu.co](mailto:alejandra.torresm@konradlorenz.edu.co)
