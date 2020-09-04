@@ -19,7 +19,7 @@ Otros requerimientos:
 
 * Crear una cuenta en [GitHub](https://github.com/)
 
-**Nota:** Es importante que cada una de estas herramientas esten instaladas para poder tomar el taller.
+**Nota:** Es importante que cada una de estas herramientas esté instalada para poder tomar el taller.
 
 ## 📚 Temas del taller
 
